@@ -1,6 +1,6 @@
-# 📊 Streamlit Data Visualizer
+# 📊 Streamlit LLM Agent Data Visualizer
 
-This repository provides an interactive Streamlit-based web interface for data visualization and analysis. The app allows users to upload datasets, explore data insights, and generate visualizations effortlessly.
+This repository provides an interactive Streamlit-based web interface for data visualization and analysis. The app allows users to upload datasets, explore insights, and effortlessly generate visualizations.
 
 ## 🚀 Features
 
