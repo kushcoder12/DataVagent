@@ -12,32 +12,19 @@ This repository provides an interactive Streamlit-based web interface for data v
 
 ## 🛠️ Installation
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/kushcoder12/DataVagent
 ```
 
-### 2️⃣ Install Dependencies
 
-Ensure you have Python 3.8+ installed, then run:
+### Run the Streamlit Interface
 
 ```bash
-pip install -r requirements.txt
+streamlit run interface.py
+streamlit run interfacetry1.py
 ```
-
-### 3️⃣ Run the Streamlit App
-
-```bash
-streamlit run llmagent.py
-```
-
-## 🖼️ Screenshots
-
-| Upload Data | Interactive Visualization |
-| ----------- | ------------------------- |
-|             |                           |
 
 ## 🔧 Usage
 
@@ -61,25 +48,11 @@ streamlit run llmagent.py
 - Suggested code blocks are extracted and executed dynamically.
 - Visualizations are rendered using various plotting libraries.
 
-## ⚡ API Configuration
-
-To use the LLM API, set your API key as an environment variable:
-
-```bash
-export LLM_API_KEY="your-api-key"
-```
-
-Or pass it in the application settings.
-
 ## 🏗️ Future Improvements
 
 - Support for additional file formats (JSON, Parquet)
 - Enhanced LLM responses for deeper insights
 - Customizable visualization templates
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ## 🤝 Contributing
 
