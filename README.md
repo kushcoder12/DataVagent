@@ -23,7 +23,7 @@ git clone https://github.com/kushcoder12/DataVagent
 
 ```bash
 streamlit run interface.py
-streamlit run interfacetry1.py
+streamlit run interface1.py
 ```
 
 ## 🔧 Usage
